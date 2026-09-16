@@ -1,15 +1,15 @@
 class Main{
     public static void main(String[] args){
-        (new.Main()).init();
+        (new Main()).init();
     }
 
     // Init function which runs when the
     // program begins.
 
-    void.init(){
-
-
-}
+    void init(){
+        System.out.println("Hello World");
+        
+    }
 
 
 }
