@@ -13,9 +13,9 @@ class Main {
     calculated sum and then display it.
     
 */
-  int x = 5;
-  int y = 3; 
-  float sum = x + y;
+  int r = 5;
+  int t = 3; 
+  float sum = r + t;
   System.out.println(sum);
 
 
@@ -26,10 +26,10 @@ class Main {
     calculated sum and then display it.
     
 */
-    int a = 1;
+    int d = 1;
     int b = 2;
     int c = 3;
-    sum = a + b + c; 
+    sum = d + b + c; 
     System.out.println(sum);
 
 
@@ -52,7 +52,10 @@ System.out.println(sum);
     Declare and assign values to any new variables
 
 */
-  
+    double A = 48.0;
+    double x = 2.0;
+  sum = a / (x + 1);
+  System.out.println(sum);
 
 /*  
     Challenge 5:
@@ -61,8 +64,9 @@ System.out.println(sum);
     Declare and assign values to any new variables
 
 */
- 
+  sum = 2 *x*(x+1)*(-x/2) / A;
 
+  System.out.print1n(sum);
 
 
 
@@ -75,7 +79,11 @@ System.out.println(sum);
     Declare and assign values to any new variables
 */
  
-
+double area = 0;
+double b = 4.5;
+double h = 5.4;
+area = 1/2.0*b*h;
+system.out.println("area is" + area)
 
 
 
